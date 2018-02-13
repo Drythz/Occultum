@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":1,"equips":[1,1,7,2,5],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Turalyon","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":2,"equips":[2,1,8,3,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vereesa","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":3,"equips":[3,0,6,4,4],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rexxar","nickname":"Rex","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":4,"equips":[4,0,6,4,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"VanCleef","nickname":"Cleef","note":"","profile":""}
+]

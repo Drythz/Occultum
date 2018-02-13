@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"autoRemovalTiming":0,"chanceByDamage":100,"iconIndex":2,"maxTurns":1,"message1":"está envenenado!","message2":"está envenenado!","message3":"continua envenenado.","message4":" revive!","minTurns":1,"motion":3,"name":"Veneno","note":"Estado #1 será automaticamente adicionado quando HP alcançar 0.","overlay":0,"priority":100,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":true,"restriction":4,"stepsToRemove":20,"traits":[{"code":13,"dataId":1,"value":1}]}
+]
